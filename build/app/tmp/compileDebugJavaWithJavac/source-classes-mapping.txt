@@ -1,4 +1,0 @@
-io/flutter/plugins/GeneratedPluginRegistrant.java
- io.flutter.plugins.GeneratedPluginRegistrant
-com/example/tripadvisor/BuildConfig.java
- com.example.tripadvisor.BuildConfig
